@@ -1,6 +1,6 @@
 %% Load data from each participant
 clear all; clc; close all;
-dataPath = './Assignment1_data/Team9';
+dataPath = './Team9';
 
 % 1. Get a list of all items, filter for directories, and remove '.' and '..'
 participants = dir(dataPath);

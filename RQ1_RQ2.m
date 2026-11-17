@@ -1,6 +1,6 @@
 clear all; clc; close all;
 
-BELL_TEST_folder = 'D:\university\AY-2 2026-2027\Semester 1 fall\Rehab Engineering\Assignment1\BELL_TEST';
+BELL_TEST_folder = '.\BELL_TEST';
 
 fileList = dir(BELL_TEST_folder);
 
