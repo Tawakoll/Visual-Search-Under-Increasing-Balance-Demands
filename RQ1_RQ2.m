@@ -1,8 +1,8 @@
 clear all; clc; close all;
 
-BELL_TEST_folder = 'D:\university\AY-2 2026-2027\Semester 1 fall\Rehab Engineering\Assignment1\BELL_TEST';
+BELL_TEST_folder = './Assignement1_data/BELL_TEST';
 
-fileList = dir(BELL_TEST_folder);
+fileList = dir(BELL_TEST_folder)
 
 %part2
 % RQ1 – Cognitive Acquisition 
